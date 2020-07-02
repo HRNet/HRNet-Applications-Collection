@@ -1,4 +1,5 @@
 # A collection of HRNet applications
+(Please feel freely add your applications if not included)
 ## Classification, segmentation and detection 
 ### ImageNet classification
 [Deep High-Resolution Representation Learning for Visual Recognition](https://arxiv.org/abs/1908.07919). Jingdong Wang, Ke Sun, Tianheng Cheng, Borui Jiang, Chaorui Deng, Yang Zhao, Dong Liu, Yadong Mu,  Mingkui Tan, Xinggang Wang, Wenyu Liu, and Bin Xiao. TPAMI. 2020. [code](https://github.com/HRNet/HRNet-Image-Classification)
