@@ -11,7 +11,7 @@
 
 [MSeg: A Composite Dataset for Multi-domain Semantic Segmentation](http://vladlen.info/papers/MSeg.pdf). John Lambert, Zhuang Liu, Ozan Sener, James Hays, and Vladlen Koltun. CVPR 2020. [code](https://github.com/mseg-dataset/mseg-semantic)
 
-[Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/1909.11065). Yuhui Yuan, Xilin Chen, Jingdong Wang. CoRR abs/1909.11065 (2019). [code](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/HRNet-OCR), [code](https://github.com/openseg-group/OCNet.pytorch)
+[Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/1909.11065). Yuhui Yuan, Xilin Chen, Jingdong Wang. ECCV 2020. [code](https://github.com/HRNet/HRNet-Semantic-Segmentation/tree/HRNet-OCR), [code](https://github.com/openseg-group/OCNet.pytorch)
 
 [Disentangled Non-Local Neural Networks](https://arxiv.org/abs/2006.06668). Minghao Yin, Zhuliang Yao, Yue Cao, Xiu Li, Zheng Zhang, Stephen Lin, Han Hu. CoRR abs/2006.06668 (2020)
 
